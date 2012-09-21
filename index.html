@@ -1,1 +1,35 @@
-Hola!
+---
+layout: default
+title: Quico Moya
+---
+<div id="post" class="row">
+	<div class="span4">
+
+	</div>
+	<div class="span12">
+		<div class="hero-unit">
+			<p>
+				I'm a freelance programmer based in Berlin, Germany.
+			</p>
+			<p>
+				I know Go, Objective-C, JavaScript 
+				and many more languages.
+			</p>
+			<p>
+				I've built <a href="/portfolio">cool things</a>.
+				If you like them and want to hire me for your next 
+				big project, <a href="mailto:me@qmoya.com">drop me a line.</a>
+			</p>
+		</div>
+	</div>
+</div>
+<h2>Latest stuff</h2>
+<div class="row">
+	{% for post in site.posts limit:3 %}
+	<div class="span4">
+		<h4>{{ post.date | date_to_string }}</h4>
+		<a href="{{ post.url }}"><h5>{{post.title}}</h5></a>
+		{{ post.content }}
+	</div>
+	{% endfor %}
+</div>

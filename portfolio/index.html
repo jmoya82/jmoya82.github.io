@@ -1,0 +1,14 @@
+---
+layout: default
+title: Work
+---
+{% for work in site.categories.portfolio %}
+	<div id="post" class="row">
+		<div class="span4">
+			<h4 class="date pull-right">{{ work.date | date_to_string }}</h4>
+		</div>
+	 	<div class="span8">
+			{{ work.content }}
+		</div>
+	</div>
+{% endfor %}

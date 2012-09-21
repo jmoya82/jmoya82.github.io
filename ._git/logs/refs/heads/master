@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 7e95ad33c7bea434f2e74a4c08dcb894082c5a2c Quico Moya <quico@moya.ws> 1316426430 +0200	commit (initial): Create an static test page
+7e95ad33c7bea434f2e74a4c08dcb894082c5a2c d7915c38d9361e35cfc547ab3a00b73428d07d7a Quico Moya <quico@moya.ws> 1316427470 +0200	commit: Add a test post
+d7915c38d9361e35cfc547ab3a00b73428d07d7a 63166dd6d9409e22644171a624dd921ce9636ecb Quico Moya <quico@moya.ws> 1316429566 +0200	commit: Set up blog structure
+63166dd6d9409e22644171a624dd921ce9636ecb 8af47da0890085cfc30acef013fb4e39aa7ad41b Quico Moya <quico@moya.ws> 1316438055 +0200	commit: Add gist to my .tmux.conf
+8af47da0890085cfc30acef013fb4e39aa7ad41b 292c5a5627b2c964cb517061f4847cc26e618827 Quico Moya <quico@moya.ws> 1347652630 +0200	commit: Add CNAME
+292c5a5627b2c964cb517061f4847cc26e618827 334a492a124b03acff415f1f345e81515eae4b4d Quico Moya <quico@moya.ws> 1347652715 +0200	pull origin master: Merge made by the 'recursive' strategy.
+334a492a124b03acff415f1f345e81515eae4b4d 445b940004150bcb8e4d3291c2a7c46073033bce Quico Moya <quico@moya.ws> 1347660164 +0200	commit: Add Bootstrap
+445b940004150bcb8e4d3291c2a7c46073033bce 15b4b7b7c79f4b9020d6c702c956bf8fb89aa8f9 Quico Moya <quico@moya.ws> 1347660171 +0200	commit: Add Bootstrap
+15b4b7b7c79f4b9020d6c702c956bf8fb89aa8f9 f29785058f9e373a4ea46bee139ef7cfffd21a75 Quico Moya <quico@moya.ws> 1347701973 +0200	commit: Create more content
+f29785058f9e373a4ea46bee139ef7cfffd21a75 eea143dced0ecb592cace4c32e01d76cde7254b0 Quico Moya <quico@moya.ws> 1347703082 +0200	commit: Remove old posts
+eea143dced0ecb592cace4c32e01d76cde7254b0 439657dafa0b84662730dec59d028464f917bb17 Quico Moya <quico@moya.ws> 1347707125 +0200	commit: Add work
+439657dafa0b84662730dec59d028464f917bb17 383b0ac39d9f457a6bfab10b19df8859d10c6a35 Quico Moya <quico@moya.ws> 1347722358 +0200	commit: Add Guilty Translations
+383b0ac39d9f457a6bfab10b19df8859d10c6a35 888305422c497902ad763e69e6ce70b5c0c90208 Quico Moya <quico@moya.ws> 1347722426 +0200	commit: Add forgotten directories
+888305422c497902ad763e69e6ce70b5c0c90208 11523d98af8cf8ed464eb54054f7882816598571 Quico Moya <quico@moya.ws> 1347722446 +0200	commit: Remove Baby Logbook post
+11523d98af8cf8ed464eb54054f7882816598571 983075e08bdd08b90494efd533e65751e809c585 Quico Moya <quico@moya.ws> 1347780320 +0200	commit: Make landing page
+983075e08bdd08b90494efd533e65751e809c585 bca490a6be5c00133ac64fac386dcceb64a0cc37 Quico Moya <quico@moya.ws> 1347780367 +0200	commit: Add forgotten files
+bca490a6be5c00133ac64fac386dcceb64a0cc37 fd933e14b89fca3d4185c249f8d74e7bcc8ea14d Quico Moya <quico@moya.ws> 1347863419 +0200	commit: Add disqus
+fd933e14b89fca3d4185c249f8d74e7bcc8ea14d 82e5186be46e23a88ae14cef236fc06141b03099 Quico Moya <quico@moya.ws> 1347863489 +0200	commit: Add forgotten files
+82e5186be46e23a88ae14cef236fc06141b03099 9351dd90d29bcaa57e4f507beb55f17b2508abd1 Quico Moya <quico@moya.ws> 1348249637 +0200	commit: Add jekyll structure

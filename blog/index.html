@@ -1,0 +1,14 @@
+---
+layout: default
+title: Quico Moya
+---
+{% for post in site.categories.blog %}
+	<div id="post" class="row">
+		<div class="span4">
+			<h4 class="date pull-right">{{ post.date | date_to_string }}</h4>
+		</div>
+	 	<div class="span8">
+			{{ post.content }}
+		</div>
+	</div>
+{% endfor %}

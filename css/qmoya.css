@@ -1,0 +1,34 @@
+.lowercase {
+	text-transform: lowercase;
+}
+
+.date {
+	margin-top: 25px;
+}
+
+body, html {
+	height: 100%;
+}
+
+/* Footer hacks */
+
+body, html {
+	height: 100%;
+}
+
+#footer {
+	margin-top: -200px;
+	height: 200px;
+	background-color: green;
+}
+
+#wrapper {
+	min-height: 100%;
+	padding-bottom: 150px;
+}
+
+#header, #footer {
+	position: relative; 
+	left: 0; 
+	right: 0; 
+}
